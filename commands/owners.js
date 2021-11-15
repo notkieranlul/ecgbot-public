@@ -8,7 +8,6 @@ module.exports = {
         .setTitle('Earth’s Contemporary Group Owners')
         
         .addFields(
-            {name: 'concisive', value: 'Instagram:https://www.instagram.com/concisive ‏‏‎\‎‎‎‎‎‎Twitter:https://twitter.com/concisive1'},
             {name: 'conn9r', value: 'Instagram:https://www.instagram.com/conn9r \‎‎‎‎‎‎Twitter:https://twitter.com/conn9r'},
             {name: 'tjohnatan', value: 'Instagram:https://www.instagram.com/tjohnatan \‎Twitter:https://twitter.com/t_johnatan'},
             {name: 'idiort', value: 'Instagram:https://www.instagram.com/pradaproblem \‎Twitter:https://twitter.com/idiorttt'},
