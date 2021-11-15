@@ -8,8 +8,6 @@ module.exports = {
         .setTitle("Owners Recent Posts")
 
         .addFields(
-            {name: 'concisive', value: '‏‏‎Armani For @EyecraveLa By Me'},
-            {name: 'https://www.instagram.com/p/CP1cbuzp7wr', value: '\u200B'},
             {name: 'conn9r', value: '‏‏‎‏‏‎CANDY MOUNTAIN CLIMBER‎'},
             {name: '‏‏‎‏‏‎https://www.instagram.com/p/CPlx81ys6KX', value: '‏‏‎‏‏‎\u200B‎‎'},
             {name: 'tjohnatan', value: '‏‏‎Weekend experiment with @ironnyxavier'},
