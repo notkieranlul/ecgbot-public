@@ -8,7 +8,7 @@ module.exports = {
         .setTitle("About")
         
         .addFields(
-            {name: "Developed by clean for Earth’s Contemporary Group Discord using Discord.js", value: '‏‏‎‏‏‎‏‏‎ ‎'},
+            {name: "Developed by kieranlul for Earth’s Contemporary Group Discord using Discord.js", value: '‏‏‎‏‏‎‏‏‎ ‎'},
             {name: "Bot Support", value: '‏‏‎‏‏‎https://discord.gg/VWsRZRpe5Q'},
         )
 
